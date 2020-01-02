@@ -88,24 +88,26 @@
 				
 			
 		</div>
-		<div id="disqus_thread"></div>
+		
+		<div id="gittalk"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+	<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script type="text/javascript">
-	(function () {
-		
-		
-		if (window.location.hostname == "localhost")
-			return;
+	var gitalk = new Gitalk({
+		clientID: '162a573eaf833f56cf81',
+		clientSecret: 'e96745db0a1c164a5792ff9c7fc484a288f2dac1',
+		repo: 'https://github.com/feivorid/feivorid.github.io',
+		owner: 'feivorid',
+		admin: ['feivorid'],
+		id: location.pathname,      
+		distractionFreeMode: false  
+	});
 
-		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		var disqus_shortname = 'ezhil-demo';
-		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-	})();
+gitalk.render('gitalk')
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
-		Disqus.</a></noscript>
-<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</div>
+
+
+	</div>
 	<div class="footer wrapper">
 	<nav class="nav">
 		<div> © Copyright 2020.feivorid |  <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
