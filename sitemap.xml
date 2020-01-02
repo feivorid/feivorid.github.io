@@ -4,10 +4,27 @@
   
   <url>
     <loc>http://feivorid.me/</loc>
+    <lastmod>2020-01-02T22:17:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feivorid.me/posts/hello-world/</loc>
+    <lastmod>2020-01-02T22:17:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feivorid.me/tags/hugo/</loc>
+    <lastmod>2020-01-02T22:17:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feivorid.me/posts/</loc>
+    <lastmod>2020-01-02T22:17:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://feivorid.me/tags/</loc>
+    <lastmod>2020-01-02T22:17:03+08:00</lastmod>
   </url>
   
 </urlset>
