@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feivorid Blog</title>
+    <title>Feivorid Space</title>
     <link>https://feivorid.me/</link>
-    <description>Recent content on Feivorid Blog</description>
+    <description>Recent content on Feivorid Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© Copyright 2020.feivorid</copyright>
+    <language>en</language>
     <lastBuildDate>Sun, 05 Jan 2020 21:12:33 +0800</lastBuildDate>
     
 	<atom:link href="https://feivorid.me/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +17,7 @@
       <pubDate>Sun, 05 Jan 2020 21:12:33 +0800</pubDate>
       
       <guid>https://feivorid.me/about/</guid>
-      <description>平时看英超，原阿森纳球迷；喜欢看足球，偶尔玩会实况足球，但是从来不踢球； 搞这个博客主要是让自己写东西这个事儿能坚持时间长一点，让自己无论在技术方面，还是生活，或者其他方面积累的东西或见识过的新鲜的好玩的可吐槽的东西和事儿等等也会记录在这里；  wechat/qq：775122280 telegram：feivorid twitter：https://twitter.com/feivorid  ​</description>
+      <description>平时看英超，原阿森纳球迷；喜欢看足球，偶尔玩会实况足球，但是从来不踢球； 搞这个博客主要是让自己写东西这个事儿能坚持时间长一点，让自己无论在技</description>
     </item>
     
     <item>
@@ -27,10 +26,7 @@
       <pubDate>Thu, 02 Jan 2020 22:17:03 +0800</pubDate>
       
       <guid>https://feivorid.me/posts/hello-world/</guid>
-      <description>拖了N久最后还是用hugo搞了这个blog，只用用过wordpress、typeecho、hexo等折腾过，但是最后还是选择了hugo。
-选择hugo主要还是因为hugo编译比较快！！！
-希望通过这个blog让自己告别拖延症，同时能提升自己写文章和总结的能力；
-共勉！</description>
+      <description>拖了N久最后还是用hugo搞了这个blog，只用用过wordpress、typeecho、hexo等折腾过，但是最后还是选择了hugo。 选择</description>
     </item>
     
   </channel>
