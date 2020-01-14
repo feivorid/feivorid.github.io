@@ -22,10 +22,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://feivorid.me/posts/hello-world/</link>
+      <link>https://feivorid.me/post/hello-world/</link>
       <pubDate>Thu, 02 Jan 2020 22:17:03 +0800</pubDate>
       
-      <guid>https://feivorid.me/posts/hello-world/</guid>
+      <guid>https://feivorid.me/post/hello-world/</guid>
       <description>Hello World 拖了N久最后还是用hugo搞了这个blog，只用用过wordpress、typeecho、hexo等折腾过，但是最后还是选择了hugo。</description>
     </item>
     

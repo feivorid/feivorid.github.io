@@ -16,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://feivorid.me/posts/hello-world/</loc>
+    <loc>https://feivorid.me/post/hello-world/</loc>
     <lastmod>2020-01-02T22:17:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -30,7 +30,7 @@
   </url>
   
   <url>
-    <loc>https://feivorid.me/posts/</loc>
+    <loc>https://feivorid.me/post/</loc>
     <lastmod>2020-01-02T22:17:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
