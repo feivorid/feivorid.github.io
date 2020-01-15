@@ -15,7 +15,4 @@
 
 * wechat/qq：`775122280`
 * telegram：`feivorid`
-* twitter：[https://twitter.com/feivorid](https://twitter.com/feivorid)
-
-​															
-
+* twitter：[https://twitter.com/feivorid](https://twitter.com/feivorid)											
