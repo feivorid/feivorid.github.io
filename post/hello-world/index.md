@@ -1,5 +1,5 @@
 
-## Hello World
+
 
 拖了N久最后还是用hugo搞了这个blog，只用用过wordpress、typeecho、hexo等折腾过，但是最后还是选择了hugo。
 
