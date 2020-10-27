@@ -6,10 +6,15 @@
     <description>Recent content on Feivorid Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2020 21:12:33 +0800</lastBuildDate>
-    
-	<atom:link href="https://feivorid.me/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 27 Oct 2020 10:46:42 +0800</lastBuildDate><atom:link href="https://feivorid.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Shh配置多用户</title>
+      <link>https://feivorid.me/post/git-shh%E9%85%8D%E7%BD%AE%E5%A4%9A%E7%94%A8%E6%88%B7/</link>
+      <pubDate>Tue, 27 Oct 2020 10:46:42 +0800</pubDate>
+      
+      <guid>https://feivorid.me/post/git-shh%E9%85%8D%E7%BD%AE%E5%A4%9A%E7%94%A8%E6%88%B7/</guid>
+      <description>最近由于公司这边代码仓库也放在github上，而且要求用公司对应的账户登录，所以遇到了git提交代码时候两个github账号切换的问题。 First 先</description>
+    </item>
     
     <item>
       <title>关于李文亮医生</title>

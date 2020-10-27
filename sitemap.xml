@@ -2,15 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://feivorid.me/</loc>
+    <lastmod>2020-10-27T10:46:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://feivorid.me/tags/git/</loc>
+    <lastmod>2020-10-27T10:46:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://feivorid.me/post/git-shh%E9%85%8D%E7%BD%AE%E5%A4%9A%E7%94%A8%E6%88%B7/</loc>
+    <lastmod>2020-10-27T10:46:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://feivorid.me/tags/github/</loc>
+    <lastmod>2020-10-27T10:46:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://feivorid.me/post/</loc>
-    <lastmod>2020-02-15T21:06:49+08:00</lastmod>
+    <lastmod>2020-10-27T10:46:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://feivorid.me/tags/</loc>
-    <lastmod>2020-02-15T21:06:49+08:00</lastmod>
+    <lastmod>2020-10-27T10:46:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -52,13 +80,6 @@
   
   <url>
     <loc>https://feivorid.me/about/</loc>
-    <lastmod>2020-01-05T21:12:33+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://feivorid.me/</loc>
     <lastmod>2020-01-05T21:12:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
