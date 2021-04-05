@@ -1,108 +1,58 @@
-<?xml-stylesheet type="text/xsl" href="https://feivorid.me/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://feivorid.me/</loc>
     <lastmod>2020-10-27T10:46:42+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/git/</loc>
     <lastmod>2020-10-27T10:46:42+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/post/git-shh%E9%85%8D%E7%BD%AE%E5%A4%9A%E7%94%A8%E6%88%B7/</loc>
     <lastmod>2020-10-27T10:46:42+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/github/</loc>
     <lastmod>2020-10-27T10:46:42+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/post/</loc>
     <lastmod>2020-10-27T10:46:42+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/</loc>
     <lastmod>2020-10-27T10:46:42+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/post/%E5%85%B3%E4%BA%8E%E6%9D%8E%E6%96%87%E4%BA%AE%E5%8C%BB%E7%94%9F/</loc>
     <lastmod>2020-02-15T21:06:49+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92/</loc>
     <lastmod>2020-02-15T21:06:49+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/%E6%97%B6%E4%BA%8B/</loc>
     <lastmod>2020-02-15T21:06:49+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://feivorid.me/post/%E4%B8%A4%E9%83%A8%E5%85%B3%E4%BA%8E%E4%BC%A0%E6%9F%93%E7%97%85%E7%9A%84%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2020-02-03T23:49:22+08:00</lastmod>
+  </url><url>
+    <loc>https://feivorid.me/tags/%E4%BC%A0%E6%9F%93%E7%97%85/</loc>
+    <lastmod>2020-02-03T23:49:22+08:00</lastmod>
+  </url><url>
+    <loc>https://feivorid.me/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2020-02-03T23:49:22+08:00</lastmod>
+  </url><url>
     <loc>https://feivorid.me/post/2019%E5%B9%B4%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2020-01-31T07:59:30+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2020-01-31T07:59:30+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/about/</loc>
     <lastmod>2020-01-05T21:12:33+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/post/hello-world/</loc>
     <lastmod>2020-01-02T22:17:03+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/tags/hugo/</loc>
     <lastmod>2020-01-02T22:17:03+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://feivorid.me/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
-  
 </urlset>

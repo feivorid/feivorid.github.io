@@ -1,60 +1,11 @@
+html {
+    background-color: #171717 !important;
+}
 body {
-	color: #ddd;
-	background-color: #000;
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
+    -webkit-filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
 }
-
-::-moz-selection {
-    background: #666;
-    text-shadow: none
-}
-
-::selection {
-    background: #666;
-    text-shadow: none
-}
-
-hr {
-    border-color: #333;
-}
-
-blockquote {
-	border-color: #ddd;
-}
-
-h1,h2,h3,h4,h5,h6 {
-	color: #ddd;
-}
-
-a,a:hover {
-	color: #ff7979;
-	text-decoration: none;
-}
-
-.site-description a,
-.site-description a:hover {
-	color: #ddd;
-	text-decoration: underline;
-}
-
-a:hover {
-	opacity: 0.8;
-}
-
-.post-tags .tags a {
-    border: 1px solid #ddd;
-	color: #ddd;
-}
-
-.site-title a {
-	color: #ddd;
-	text-decoration: none !important;
-}
-
-.header nav,
-.footer {
-	border-color: #333;
-}
-
-.highlight {
-	background-color: #333;
+img, video, iframe, body * [style*="background-image"] {
+    filter: hue-rotate(180deg) contrast(100%) invert(100%);
+    -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
 }
