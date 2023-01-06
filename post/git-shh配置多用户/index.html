@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Git Shh配置多用户"/>
 <meta name="twitter:description" content="最近由于公司这边代码仓库也放在github上，而且要求用公司对应的账户登录，所以遇到了git提交代码时候两个github账号切换的问题。
- First 先看一下我原来的ssh config里面github相关的配置入如下图：
+First 先看一下我原来的ssh config里面github相关的配置入如下图：
 Host github.com HostName github.com IdentityFile ~/.ssh/id_rsa User git 目前是只有一个默认的github账户的情况下。
 Second 下面要在ssh新增一个配置：
 Host xxxx HostName github.com IdentityFile ~/.ssh/id_rsa_xxxx User git 注意这里的Host随便起的。
@@ -64,7 +64,7 @@ git remote origin set-url git@xxxx:feivorid/aaaaaa.git 注意：这里的xxxx为
 
 <script src="https://feivorid.me/js/main.bundle.js"></script>
 <script src="https://feivorid.me/js/instantpage.min.js" type="module" defer></script>
-<meta name="generator" content="Hugo 0.82.0" />
+<meta name="generator" content="Hugo 0.109.0">
   </head>
   <body>
     
@@ -140,23 +140,23 @@ git remote origin set-url git@xxxx:feivorid/aaaaaa.git 注意：这里的xxxx为
 </blockquote>
 <h3 id="first">First</h3>
 <p>先看一下我原来的ssh config里面github相关的配置入如下图：</p>
-<pre><code>Host github.com
+<pre tabindex="0"><code>Host github.com
 HostName github.com
 IdentityFile ~/.ssh/id_rsa
 User git
 </code></pre><p>目前是只有一个默认的github账户的情况下。</p>
 <h3 id="second">Second</h3>
 <p>下面要在ssh新增一个配置：</p>
-<pre><code>Host xxxx
+<pre tabindex="0"><code>Host xxxx
 HostName github.com
 IdentityFile ~/.ssh/id_rsa_xxxx
 User git
 </code></pre><p>注意这里的<strong>Host</strong>随便起的。</p>
 <h3 id="third">Third</h3>
 <p>配置完ssh config之后，需要把用下面密钥配置的仓库重新设置一下 origin url;</p>
-<pre><code>git remote -v
+<pre tabindex="0"><code>git remote -v
 </code></pre><p>查看一下你原来的url,例如原来的url <a href="mailto:git@github.com">git@github.com</a>:feivorid/aaaaaa.git，那么需要设置为</p>
-<pre><code>git remote origin set-url git@xxxx:feivorid/aaaaaa.git
+<pre tabindex="0"><code>git remote origin set-url git@xxxx:feivorid/aaaaaa.git
 </code></pre><p>注意：这里的xxxx为第二个ssh 配置的host；</p>
 <p>设置完之后就可以正常push pull 代码了！</p>
 
